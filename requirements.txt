@@ -1,0 +1,10 @@
+fastapi==0.111.1
+pydantic==2.8.2
+transformers==4.43.3
+torch==2.4.0+cu124
+pandas==2.2.2
+pdfminer.six==20231228
+sqlalchemy==2.0.32
+datetime
+uvicorn==0.30.3
+python-multipart==0.0.9
